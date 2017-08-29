@@ -1,1 +1,1 @@
-export {getCsp} from './get-csp.js';
+export {Foo} from './foo.js';
